@@ -1,0 +1,1 @@
+# robot_money_collector
